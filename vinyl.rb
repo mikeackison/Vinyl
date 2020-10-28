@@ -1,3 +1,4 @@
+#comment
 class Vinyl
     def initialize(artist, album, tracklist)
       @artist = artist
