@@ -25,9 +25,7 @@ class Vinyl
       @tracklist[number - 1]
     end
   end
-  
-  # .chars.shuffle.join
-  
+ 
   class VinylCollection
     def initialize(collection)
       @collection = collection
