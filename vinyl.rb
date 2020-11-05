@@ -41,25 +41,3 @@ class VinylCollection
     correct_name
   end
 end
-
-# vinyl_collection = VinylCollection.new(
-# [
-#   Vinyl.new(
-#     "Joe Biden",
-#     "Democrats",
-#     [
-#       "Policy 1",
-#       "Policy 2",
-#     ]
-#   ),
-#   Vinyl.new(
-#     "Orange",
-#     "Republican",
-#     [
-#       "Policy 1",
-#       "Policy 2",
-#     ]
-#   ),
-# ])
-
-# puts "Here are all the songs by Joe Biden: #{vinyl_collection.artist_lookup("Joe Biden").read_songs}"

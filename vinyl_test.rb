@@ -1,5 +1,8 @@
 require "minitest/autorun"
 require_relative "./vinyl.rb"
+require_relative "./vinyl_collection.rb"
+# require_relative "./vinyl_class.rb"
+
 
 class Test < Minitest::Test
   def setup
